@@ -1,0 +1,3 @@
+https://teamtreehouse.com/community/todo-list-app-in-python
+
+https://stackoverflow.com/questions/46983310/to-do-list-python-function#:~:text=To-Do%20List%20Python%20function.%201%20Name%20of%20the,the%20the%20tasks%20for%20that%20day%20...%20
